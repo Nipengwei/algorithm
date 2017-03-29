@@ -25,3 +25,18 @@
 - [尾递归](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code7_1.py)
 ## 8. 二进制中1的个数
 - [code8](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code8.py)
+## 9. 浮点数的整数次方
+不调用pow()函数
+- [code9](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code9.py)
+## 10. 调整数组顺序：奇数在偶数前
+-输入一个整数数组，实现一个函数来调整该数组中数字的顺序，使得所有的奇数位于数组的前半部分，所有的偶数位于位于数组的后半部分，并保证奇数和奇数，偶数和偶数之间的相对位置不变。
+- [code10](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code10.py)
+## 11. 链表倒数第k个节点
+- [code11](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code11.py)
+## 12. 反转链表
+- [循环](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code12_1.py)
+- [递归](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code12_2.py)
+## 13. 合并有序链表
+- [code13](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code13.py)
+## 14. 树的字结构
+- [code14](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code14.py)
