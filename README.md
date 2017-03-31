@@ -29,7 +29,7 @@
 不调用pow()函数
 - [code9](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code9.py)
 ## 10. 调整数组顺序：奇数在偶数前
--输入一个整数数组，实现一个函数来调整该数组中数字的顺序，使得所有的奇数位于数组的前半部分，所有的偶数位于位于数组的后半部分，并保证奇数和奇数，偶数和偶数之间的相对位置不变。
+- 输入一个整数数组，实现一个函数来调整该数组中数字的顺序，使得所有的奇数位于数组的前半部分，所有的偶数位于位于数组的后半部分，并保证奇数和奇数，偶数和偶数之间的相对位置不变。
 - [code10](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code10.py)
 ## 11. 链表倒数第k个节点
 - [code11](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code11.py)
@@ -40,3 +40,30 @@
 - [code13](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code13.py)
 ## 14. 树的字结构
 - [code14](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code14.py)
+## 15. 二叉树的镜像
+- [code15](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code15.py)
+## 16. 顺时针打印数组
+- [code16](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code16.py)
+## 17. 包含min函数的栈
+- [code17](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code17.py)
+## 18. 栈压入弹出顺序
+- [code18](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code18.py)
+## 19. 从上往下打印二叉树
+- [code19](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code19.py)
+## 20. 二叉搜索树后序遍历
+- 输入一个整数数组，判断该数组是不是某二叉搜索树的后序遍历的结果。如果是则输出Yes,否则输出No。假设输入的数组的任意两个数字都互不相同。
+- [code20](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code20.py)
+## 21. 二叉树中和为某一值的路径
+- [code21](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code21.py)
+## 22. 复制复杂链表
+- 输入一个复杂链表（每个节点中有节点值，以及两个指针，一个指向下一个节点，另一个特殊指针指向任意一个节点），返回结果为复制后复杂链表的head。
+- [code22](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code22.py)
+## 23. 二叉搜索树与双向链表
+- 输入一棵二叉搜索树，将该二叉搜索树转换成一个排序的双向链表。要求不能创建任何新的结点，只能调整树中结点指针的指向。
+- [code23](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code23.py)
+## 24. 字符串的排列
+- [code24](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code24.py)
+## 25. 数组中出现超过一半的数
+- [code25](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code25.py)
+## 26. 最小的k个数
+- [code26](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code26.py)
