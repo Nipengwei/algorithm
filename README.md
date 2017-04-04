@@ -67,3 +67,7 @@
 - [code25](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code25.py)
 ## 26. 最小的k个数
 - [code26](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code26.py)
+## 27. 和最大的连续子数组
+- [code27](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code27.py)
+## 28. 1到n中1出现的次数
+- [code28](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code28.py)
