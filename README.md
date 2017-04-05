@@ -71,3 +71,8 @@
 - [code27](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code27.py)
 ## 28. 1到n中1出现的次数
 - [code28](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code28.py)
+## 29. 把数组排成最小的数
+- [code29](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code29.py)
+## 30. 丑数
+- 把只包含素因子2、3和5的数称作丑数（Ugly Number）。例如6、8都是丑数，但14不是，因为它包含因子7。 习惯上我们把1当做是第一个丑数。求按从小到大的顺序的第N个丑数。
+- [code30](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code30.py)
