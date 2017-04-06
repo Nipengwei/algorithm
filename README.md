@@ -76,3 +76,6 @@
 ## 30. 丑数
 - 把只包含素因子2、3和5的数称作丑数（Ugly Number）。例如6、8都是丑数，但14不是，因为它包含因子7。 习惯上我们把1当做是第一个丑数。求按从小到大的顺序的第N个丑数。
 - [code30](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code30.py)
+## 31. 第一个只出现一次的字符
+- 在一个字符串(1<=字符串长度<=10000，全部由字母组成)中找到第一个只出现一次的字符,并返回它的位置。如果字符串为空,返回-1
+- [code31](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code31.py)
