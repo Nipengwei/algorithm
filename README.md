@@ -83,3 +83,7 @@
 - [code32](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code32.py)
 ## 33. 两个链表的第一个公共节点
 - [code33](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code33.py)
+## 34. 数字在排序数组中出现次数
+- [code34](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code34.py)
+## 35. 二叉树的深度
+- [code35](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code35.py)
