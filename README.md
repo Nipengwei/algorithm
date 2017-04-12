@@ -87,3 +87,6 @@
 - [code34](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code34.py)
 ## 35. 二叉树的深度
 - [code35](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code35.py)
+## 36. 平衡二叉树
+- 输入一棵二叉树，判断该二叉树是否是平衡二叉树（左右子树都为平衡二叉树且左右子树深度相差不超过1）
+- [code36](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code36.py)
