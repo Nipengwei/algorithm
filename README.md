@@ -90,3 +90,10 @@
 ## 36. 平衡二叉树
 - 输入一棵二叉树，判断该二叉树是否是平衡二叉树（左右子树都为平衡二叉树且左右子树深度相差不超过1）
 - [code36](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code36.py)
+## 37. 数组中只出现一次的数字
+- [code37](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code37.py)
+## 38. 和为s的连续正数序列
+- [code38](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code38.py)
+## 39. 和为s的两个数字
+- 输入一个递增排序的数组和一个数字S，在数组中查找两个数，使得他们的和正好是S，如果有多对数字的和等于S，输出两个数的乘积最小的。 
+- [code39](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code39.py)
