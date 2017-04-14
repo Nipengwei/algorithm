@@ -97,3 +97,7 @@
 ## 39. 和为s的两个数字
 - 输入一个递增排序的数组和一个数字S，在数组中查找两个数，使得他们的和正好是S，如果有多对数字的和等于S，输出两个数的乘积最小的。 
 - [code39](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code39.py)
+## 40. 圆圈中最后剩下的数
+- [code40](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code40.py)
+## 41. 不用关键字计算1+2+3+...+n
+- [code41](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code41.py)
