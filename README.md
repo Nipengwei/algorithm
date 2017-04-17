@@ -101,3 +101,5 @@
 - [code40](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code40.py)
 ## 41. 不用关键字计算1+2+3+...+n
 - [code41](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code41.py)
+## 42. 字符串转换成整数
+- [code42](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code42.py)
