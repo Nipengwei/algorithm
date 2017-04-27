@@ -105,3 +105,6 @@
 ## 43. 数组中重复的数字
 - 在一个长度为n的数组里的所有数字都在0到n-1的范围内。 数组中某些数字是重复的，但不知道有几个数字是重复的。也不知道每个数字重复几次。请找出数组中任意一个重复的数字。
 - [code43](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code43.py)
+## 44. 构建乘积数组
+- 给定一个数组A[0,1,...,n-1],请构建一个数组B[0,1,...,n-1],其中B中的元素B[i]=A[0]*A[1]*...*A[i-1]*A[i+1]*...*A[n-1]。不能使用除法。
+- [code44](https://github.com/Nipengwei/algorithm/blob/master/coding_interviews/code44.py)
