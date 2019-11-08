@@ -22,3 +22,17 @@
 用hashmap记录每个字符最后一次出现的位置，若遍历的字符已经存在hashmap中，则将子字符串的起始位置移到记录位置的后一位，开始计算新的子串
 
 [code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/code3.py)
+
+## 5. [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/submissions/)
+
+`动态规划`
+
+**想法：**
+1. 常规动态规划解法，复杂度$O(n^2)$
+[code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/code5.py)
+
+初始化二维数组时，应使用第一种。第二种为n个同一数组。
+```python
+[[False for i in range(n)] for i in range(n)]
+[False *n]*n
+```
