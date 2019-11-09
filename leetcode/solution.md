@@ -36,3 +36,17 @@
 [[False for i in range(n)] for i in range(n)]
 [False *n]*n
 ```
+
+## 7. [整数反转](https://leetcode-cn.com/problems/reverse-integer/submissions/)
+
+`int`
+
+**注意：**
+python的取整与取余在正负数时表现不一样
+```python
+123 // 10 == 12
+-123 // 10 == -13
+123 % 10 == 3
+-123 % 10 == 7
+```
+[code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/code7.py)
