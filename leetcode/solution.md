@@ -50,3 +50,12 @@ python的取整与取余在正负数时表现不一样
 -123 % 10 == 7
 ```
 [code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/code7.py)
+
+## 9. [回文数](https://leetcode-cn.com/problems/palindrome-number/)
+
+`int`
+
+**思路：**
+将整数反转进行至一半即可
+
+[code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/code9.py)
