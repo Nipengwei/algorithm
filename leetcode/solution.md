@@ -1,7 +1,6 @@
 # leetcode
 
 ## 1. [两数之和](https://leetcode-cn.com/problems/two-sum/)
-`数组`
 
 **想法：**
 数组是无序的，第一眼看到想到的是数组排序然后用二分搜索。但问题是排序过后下标也乱了，由下标联想到应使用**hashmap**。在新建的哈希表中搜索`target - num`的值
@@ -10,12 +9,9 @@
 
 ## 2. [两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
 
-`链表`
-
 [code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/code2.py)
 
 ## 3. [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
-
 `sliding window`
 
 **想法：**
@@ -24,8 +20,6 @@
 [code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/code3.py)
 
 ## 5. [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/submissions/)
-
-`动态规划`
 
 **想法：**
 1. 常规动态规划解法，复杂度$O(n^2)$
@@ -39,8 +33,6 @@
 
 ## 7. [整数反转](https://leetcode-cn.com/problems/reverse-integer/submissions/)
 
-`int`
-
 **注意：**
 python的取整与取余在正负数时表现不一样
 ```python
@@ -53,9 +45,14 @@ python的取整与取余在正负数时表现不一样
 
 ## 9. [回文数](https://leetcode-cn.com/problems/palindrome-number/)
 
-`int`
-
-**思路：**
+**想法：**
 将整数反转进行至一半即可
 
 [code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/code9.py)
+
+## 10. [Z字型变换](https://leetcode-cn.com/problems/zigzag-conversion/)
+
+**想法：**
+创建n行空字符串，遍历时根据规律确定每个字符属于的行数。
+
+[code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/code10.py)
