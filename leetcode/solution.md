@@ -56,3 +56,10 @@ python的取整与取余在正负数时表现不一样
 创建n行空字符串，遍历时根据规律确定每个字符属于的行数。
 
 [code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/code10.py)
+
+## 11. [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
+
+**想法：**
+贪心算法，如果当前子集的和为负，则从当前元素重新开始计算子集。
+
+[code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/code11.py)
