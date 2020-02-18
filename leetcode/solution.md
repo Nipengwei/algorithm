@@ -63,3 +63,7 @@ python的取整与取余在正负数时表现不一样
 贪心算法，如果当前子集的和为负，则从当前元素重新开始计算子集。
 
 [code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/code11.py)
+
+## 12. [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
+
+[code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/code12.py)
