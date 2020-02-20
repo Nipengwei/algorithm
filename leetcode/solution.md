@@ -67,3 +67,7 @@ python的取整与取余在正负数时表现不一样
 ## 12. [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
 
 [code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/code12.py)
+
+## 13. [反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
+
+[code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/code13.py)
