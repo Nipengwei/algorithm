@@ -3,7 +3,7 @@
 ## 1. [两数之和](https://leetcode-cn.com/problems/two-sum/)
 
 **想法：**
-数组是无序的，第一眼看到想到的是数组排序然后用二分搜索。但问题是排序过后下标也乱了，由下标联想到应使用**hashmap**。在新建的哈希表中搜索`target - num`的值
+数组是无序的，首先想到的是数组排序然后用二分搜索。但问题是排序过后下标也乱了，由下标联想到应使用**hashmap**。在新建的哈希表中搜索`target - num`的值
 
 [code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/code1.py)
 
@@ -25,22 +25,8 @@
 1. 常规动态规划解法，复杂度$O(n^2)$
 [code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/code5.py)
 
-初始化二维数组时，应使用第一种。第二种为n个同一数组。
-```python
-[[False for i in range(n)] for i in range(n)]
-[False *n]*n
-```
-
 ## 7. [整数反转](https://leetcode-cn.com/problems/reverse-integer/submissions/)
 
-**注意：**
-python的取整与取余在正负数时表现不一样
-```python
-123 // 10 == 12
--123 // 10 == -13
-123 % 10 == 3
--123 % 10 == 7
-```
 [code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/code7.py)
 
 ## 9. [回文数](https://leetcode-cn.com/problems/palindrome-number/)
