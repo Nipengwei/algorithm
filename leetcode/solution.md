@@ -57,3 +57,11 @@
 ## 13. [反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
 
 [code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/code13.py)
+
+## 14. [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+
+[code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/104.二叉树的最大深度.js)
+
+## 15. [平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
+
+[code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/110.平衡二叉树.js)
