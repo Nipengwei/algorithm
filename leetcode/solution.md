@@ -69,3 +69,7 @@
 ## 16. [二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
 
 [code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/124.二叉树中的最大路径和.js)
+
+## 17. [二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+
+[code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/236.二叉树的最近公共祖先.js)
