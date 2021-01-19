@@ -77,3 +77,7 @@
 ## 18. [二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
 
 [code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/102.二叉树的层序遍历.js)
+
+## 19. [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)
+
+[code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/98.验证二叉搜索树.js)
