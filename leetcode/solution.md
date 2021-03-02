@@ -81,3 +81,7 @@
 ## 19. [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)
 
 [code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/98.验证二叉搜索树.js)
+
+## 20. [分隔链表](https://leetcode-cn.com/problems/partition-list/)
+
+[code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/86.分隔链表.js)
