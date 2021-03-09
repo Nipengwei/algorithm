@@ -85,3 +85,7 @@
 ## 20. [分隔链表](https://leetcode-cn.com/problems/partition-list/)
 
 [code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/86.分隔链表.js)
+
+## 21. [字符串解码](https://leetcode-cn.com/problems/decode-string/)
+
+[code](https://github.com/Nipengwei/algorithm/blob/master/leetcode/394.字符串解码.js)
